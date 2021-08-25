@@ -1,6 +1,6 @@
 ## Hello, I'm Malik 👋
 
-### About me
+### About Me
 ```cs
 public class AboutMe
 {
