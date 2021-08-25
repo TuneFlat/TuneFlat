@@ -16,7 +16,7 @@ public class AboutMe
 		"Watching Anime",
 		"Rhythm Games",
 		"Reading",
-    "Learning Japanese"
+    		"Learning Japanese"
 	};
 
 	public List<string> Fears = new()
