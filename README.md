@@ -1,6 +1,6 @@
-### Hello, I'm Malik 👋
+## Hello, I'm Malik 👋
 
-#### About me
+### About me
 ```cs
 public class AboutMe
 {
@@ -28,7 +28,7 @@ public class AboutMe
 }
 ```
 
-#### Current Projects
+### Current Projects
 - [NotecardApp](https://github.com/TuneFlat/NotecardApp): Simple .NET Notecard app
 - Ahm: Discord bot made with Node.js to help manage a Destiny 2 Clan
 - Renpy Dev Tools: Dev tools for Renpy. If you're a Visual Novel developer that's interested please contact me on Discord: Tune#2543
