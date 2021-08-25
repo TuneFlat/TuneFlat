@@ -12,7 +12,7 @@ public class AboutMe
 
 	public List<string> Hobbies = new()
 	{
-		"Being up all night chasing the last(TM) bug",
+		"Being up all night fixing the last(TM) bug",
 		"Watching Anime",
 		"Rhythm Games",
 		"Reading",
