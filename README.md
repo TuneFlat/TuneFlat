@@ -30,5 +30,5 @@ public class AboutMe
 
 ### Current Projects
 - [NotecardApp](https://github.com/TuneFlat/NotecardApp): Simple .NET Notecard app
-- Ahm: Discord bot made with Node.js to help manage a Destiny 2 Clan
+- Ahm: Discord bot made with Node.js to help manage a Destiny 2 Clan and its' Discord
 - Renpy Dev Tools: Dev tools for Renpy. If you're a Visual Novel developer that's interested please contact me on Discord: Tune#2543
