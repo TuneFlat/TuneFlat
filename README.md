@@ -37,7 +37,7 @@ public class AboutMe
 My biggest passion is to create. Aside from programming I often do things like art, music, 3D modeling, and video editting. 
 I'm comfortable with a good number of different tools and softwares.
 
-My current favorite softwares are:
+My current favorite software are:
 - LMMS
 - LIVE2D Cubism
 - Clip Studio
