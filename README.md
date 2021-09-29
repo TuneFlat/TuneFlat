@@ -10,10 +10,8 @@ public class AboutMe
 
 	public string ShortLocationString = "Saint Joseph, MO";
 
-	public List<string> Hobbies = new()
+	public List<string> Hobbies = new List<string>()
 	{
-		"Being up all night fixing the last(TM) bug",
-		"Watching Anime",
 		"Rhythm Games",
 		"Reading",
     		"Learning Japanese"
@@ -30,7 +28,7 @@ public class AboutMe
 
 ### Current Projects
 - [NotecardApp](https://github.com/TuneFlat/NotecardApp): Simple .NET Notecard app
-- Ahm: Discord bot made with Node.js to help manage a Destiny 2 Clan and its Discord
+- [Ahm](https://github.com/TuneFlat/Ahm.DiscordBot): Discord bot made with ASP.NET core to help manage a Destiny 2 Clan and its Discord
 - Renpy Dev Tools: Dev tools for Renpy. If you're a Visual Novel developer that's interested please contact me on Discord: Tune#2543
 
 ### Other
