@@ -29,7 +29,6 @@ public class AboutMe
 ### Current Projects
 - [NotecardApp](https://github.com/TuneFlat/NotecardApp): Simple .NET Notecard app
 - [Ahm](https://github.com/TuneFlat/Ahm.DiscordBot): Discord bot made with ASP.NET core to help manage a Destiny 2 Clan and its Discord
-- Renpy Dev Tools: Dev tools for Renpy. If you're a Visual Novel developer that's interested please contact me on Discord: Tune#2543
 
 ### Other
 My biggest passion is to create. Aside from programming I often do things like art, music, 3D modeling, and video editing. 
