@@ -14,6 +14,7 @@ public class AboutMe
 	{
 		"Rhythm Games",
 		"Reading",
+		"Cooking",
     		"Learning Japanese"
 	};
 
@@ -27,7 +28,6 @@ public class AboutMe
 ```
 
 ### Current Projects
-- [NotecardApp](https://github.com/TuneFlat/NotecardApp): Simple .NET Notecard app
 - [Ahm](https://github.com/TuneFlat/Ahm.DiscordBot): Discord bot made with ASP.NET core to help manage a Destiny 2 Clan and its Discord
 
 ### Other
