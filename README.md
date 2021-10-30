@@ -27,8 +27,9 @@ public class AboutMe
 }
 ```
 
-### Current Projects
+### Projects
 - [Ahm](https://github.com/TuneFlat/Ahm.DiscordBot): Discord bot made with ASP.NET core to help manage a Destiny 2 Clan and its Discord
+- [Notecard App](https://github.com/TuneFlat/NotecardApp): Simple .NET Notecard app
 
 ### Other
 My biggest passion is to create. Aside from programming I often do things like art, music, 3D modeling, and video editing. 
